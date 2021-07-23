@@ -8,6 +8,9 @@
 - Aprenda como preencher campos de endereço automaticamente com requisições à API da ViaCEP
 - Aplique uma máscara monetária em campos de preço
 
-![Home](/assets/img/cadastro01.PNG)
+![Formulario](/assets/img/cadastro01.PNG)
+
+
+![Produto](/assets/img/cadastroProd01.PNG)
 
 
